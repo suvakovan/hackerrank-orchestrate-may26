@@ -1,4 +1,4 @@
-# HackerRank Orchestrate
+# HackerRank Orchestrate.
 
 Starter repository for the **HackerRank Orchestrate** 24-hour hackathon (May 1–2, 2026).
 
